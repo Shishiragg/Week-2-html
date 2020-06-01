@@ -1,2 +1,3 @@
-# Week-2-html
-Week 2 solution
+
+
+Coursera course: HTML, CSS, and Javascript for Web Developers, Module 2 Coding Assignment
